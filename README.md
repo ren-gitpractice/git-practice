@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-new-featureブランチで修正
+no-fast-forwardブランチで修正
