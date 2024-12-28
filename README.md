@@ -1,4 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-conflictブランチで修正
-githubで更新2回目
+自分のリポジトリで修正
